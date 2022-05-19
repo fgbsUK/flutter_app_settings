@@ -15,8 +15,7 @@ flutter pub get
 flutter run
 ```
 ## ScreenShot 
-
-<img src="/settings-screen.jpge" height="600em" width="300em"/><img src="/settings-detail-page.jpge" height="600em" width="300em" />
+<img src="/settings-screen.jpeg" height="600em" width="300em"/><img src="/settings-detail-page.jpeg" height="600em" width="300em" />
 
 
 ## References
