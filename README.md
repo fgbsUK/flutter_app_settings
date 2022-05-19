@@ -16,7 +16,7 @@ flutter run
 ```
 ## ScreenShot 
 
-<img src="settings-screen.jpge" height="600em" /><img src="settings-detail-page.jpge" height="600em" />
+<img src="/settings-screen.jpge" height="600em" width="300em"/><img src="/settings-detail-page.jpge" height="600em" width="300em" />
 
 
 ## Links
