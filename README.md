@@ -19,6 +19,12 @@ flutter run
 <img src="/settings-screen.jpge" height="600em" width="300em"/><img src="/settings-detail-page.jpge" height="600em" width="300em" />
 
 
+## References
+
+https://github.com/babstrap/babstrap_settings_screen
+https://github.com/themadmrj/chat_ui_kit
+https://github.com/pedromartinsb/flutter-auth
+
 ## Links
 
 * [Website](https://www.fgbusinessservices.co.uk)
